@@ -27,6 +27,9 @@ six
 tabulate
 tblib
 tld
+# new add
+tqdm
+requests
 
 
 # Python 3 is not fully supported prior to Selenium 3.x.
