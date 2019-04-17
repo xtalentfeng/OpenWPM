@@ -22,6 +22,9 @@ ADD requirements.txt /opt/OpenWPM/
 ADD VERSION /opt/OpenWPM/
 ADD install.sh /opt/OpenWPM/
 ADD demo.py /opt/OpenWPM/
+ADD crawler.py /opt/OpenWPM
+ADD crawl-utils.py /opt/OpenWPM
+ADD crawler_100k.py /opt/OpenWPM
 
 #=============================================================
 # Add normal user with passwordless sudo, and switch
